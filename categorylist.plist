@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>groupName</key>
+		<string>所有类型</string>
+		<key>Items</key>
+		<array>
+			<string>所有类型</string>
+		</array>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>2D动漫</string>
+		<key>Items</key>
+		<array>
+			<string>2D人物</string>
+			<string>2D场景</string>
+			<string>2D建筑</string>
+			<string>2D物件</string>
+		</array>
+	</dict>
+	<dict>
+		<key>groupName</key>
+		<string>3D</string>
+		<key>Items</key>
+		<array>
+			<string>3D人物</string>
+			<string>3D场景</string>
+			<string>3D建筑</string>
+			<string>3D游戏</string>
+			<string>3D电影</string>
+			<string>3D图书</string>
+		</array>
+	</dict>
+</array>
+</plist>
